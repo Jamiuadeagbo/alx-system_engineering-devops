@@ -1,0 +1,2 @@
+#!/bin/bash
+count -n d sub d "*current directory"
