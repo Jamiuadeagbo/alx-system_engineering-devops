@@ -1,2 +1,2 @@
 #!/bin/bash
-count -n d sub d "*current directory"
+find . -type d ! -path . | wc -1
